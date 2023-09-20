@@ -1,0 +1,14 @@
+.userInfo-container {
+    display: flex;
+    min-height: 400px;
+    .userInfo {
+        width: 50%;
+    }
+    .avatar {
+        width: 50%;
+    }
+    .btn-upload {
+        margin-top: 20px;
+        margin-left: 25px;
+    }
+}
